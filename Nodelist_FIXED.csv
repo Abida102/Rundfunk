@@ -1,0 +1,94 @@
+id,name,sex,power,age,type,job,sector
+dh,Dennis Hohloch,2,,37,A,mdl,politik
+dt,Denny Tumlirsch,2,,36,A,jurist*in,landwirtschaft
+lko,Linda Kanellos-Okur,1,,39,A,büroleitung,kirche kath
+av,Andres Veiel,2,,67,A,regisseur*in,kultur
+kk,Katja Karger,1,,57,A,vorsitzende*r,gewerkschaft
+nz,Nadja Zivkovic,1,,48,A,bm,öffentlicher dienst
+mk,Marcus Koinzer,2,,39,A,geschäftsführer*in,minderheiten
+mh,Martin Hagemann,2,,68,A,geschätsführer*in,film
+es,Erik Stohn,2,,43,A,mdl,politik
+nh,Norman Heise,2,,48,A,betriebsleiter,tourismus
+fh,Frauke Hemm,1,,58,A,geschäftsführer*in,abfallwirtschaft
+vat,Volker-Alexander Tönnies,2,,55,A,landrat,politik
+eh,Elske Hildebrandt,1,,52,A,mdl,politik
+dt3,Dr. Daniel Tripke,2,,54,A,anwalt*in,verteidigung
+ek,Elena Kountidou,1,,47,A,geschäftsführer*in,sonstige dienstleistungen
+fb,Frank Becker,2,,65,A,beamt*in,öffentlicher dienst
+ra,Regine Auster,1,,68,A,geschäftsführer*in,naturschutz
+ca,Christian Amsinck,2,,68,A,geschäftsführer*in,wirtschaft
+ak,Andrera Kühnemann,1,,63,A,landesbezirksleiter*in,gewerkschaft
+jej,Jala El Jazairi,1,,54,A,koordinator*in,soziales
+mkg,Melanie Kühnemann-Grunow,1,,54,A,mdl,politik
+acf,Anja-Christin Faber,1,,51,A,geschäftsführer*in,soziales
+sn,Sara Nachama,1,,NA,A,rektor*in,bildung
+ff,Frank Feuerschütz,2,,,A,,
+kr,Katharina Riedel,1,,,A,,
+hg,Harald Geywitz,2,,,A,,
+sr,Sven Rissmann,2,,,A,,
+cg,Christian Goiny,2,,,A,,
+ss,Stefan Schenk,2,,,A,,
+dg,Diana Golze,1,,,A,,
+ds,Dirk Siegfried,2,,,A,,
+bauern,Landesbauernverband,NA,,NA,D,NA,NA
+verdi,vereinte Dienstleistungsgewerkschaft,NA,,NA,D,NA,NA
+landtag,Landtag,NA,,NA,D,NA,NA
+foerd,Förderverein für Öffentlichkeitsarbeit im Natur- und Umweltschutz,NA,,NA,D,NA,NA
+stadtrat,Stadtrat,NA,,NA,D,NA,NA
+lmbv,Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft,NA,,NA,D,NA,NA
+dbb,Beamtenbund und Tarifunion (Gewerkschaft des öffentlichen Dienstes),NA,,NA,D,NA,NA
+vak,Verwaltungsakademie des Landes Berlin,NA,,NA,D,NA,NA
+hprberlin,Hauptpersonalrat des Landes Berlin,NA,,NA,D,NA,NA
+versorgung,Beirates Versorgungsrücklage des Landes Berlin,NA,,NA,D,NA,NA
+drvbund,Deutsche Rentenversicherung Bund,NA,,NA,D,NA,NA
+agdok,Arbeitsgemeindschaft Dokumentarfilm,NA,,NA,D,NA,NA
+mt,Marzahner Tor e.G,NA,,NA,D,NA,NA
+hwkpotsdam,Handwerkskammer Potsdam,NA,,NA,D,NA,NA
+mbm,Mittelstandverein Blankenfelde-Mahlow,NA,,NA,D,NA,NA
+mz,Mitteldeutsche Zahntechnik,NA,,NA,D,NA,NA
+he,Havelländischen Eisenbahn,NA,,NA,D,NA,NA
+ne,Niederbarnimer Eisenbahngesellschaft,NA,,NA,D,NA,NA
+lhfn,"Landesstiftung ""Hilfen für Familien in Not""",NA,,NA,D,NA,NA
+lsbb,LSB Brandenburg e.V,NA,,NA,D,NA,NA
+msvn,MSV Neuruppin e.V,NA,,NA,D,NA,NA
+rcn,Rotary Club Neurupin e.V,NA,,NA,D,NA,NA
+rng,RC Neuruppin Gemeindienst e.V,NA,,NA,D,NA,NA
+ndm,Neue deutsche Medienmacher*innen e.V,NA,,NA,D,NA,NA
+ipv,Kuratorium des Industrie-Pensions-Vereins e.V.,NA,,NA,D,NA,NA
+ibb,Investitionsbank Berlin,NA,,NA,D,NA,NA
+commerzbank,Commerzbank AG,NA,,NA,D,NA,NA
+ihrbrandenburg,Landeshochschulrat Brandenburg,NA,,NA,D,NA,NA
+bsr,Berliner Stadtreinigungsbetriebe,NA,,NA,D,NA,NA
+stromnetzberlin,Stromnetz Berlin,NA,,NA,D,NA,NA
+hpvberlin,Vorstand des Hospiz- und Palliativ Verbands Berlin e. V.,NA,,NA,D,NA,NA
+migranten,Migrantenbeirat Potsdam,NA,,NA,D,NA,NA
+landfrauenbrandenburg,Brandenburger Landfrauenverband e. V.,NA,,NA,D,NA,NA
+fpr,Frauenpolitischer Rat Brandenburg e. V.,NA,,NA,D,NA,NA
+jgberlin,Jüdische Gemeinde zu Berlin K. d. ö. R.,NA,,NA,D,NA,NA
+widenthecircle,"Widen the Circle,Obermayer Foundation",NA,,NA,D,NA
+advofleet,Advofleet Business Service GmbH,NA,,NA,D,NA,NA
+wib,Willkommen in Berlin e. V.: Diplomatenclub beim Auswärtigen Amt,NA,,NA,D,NA,NA
+unicefberlin,Unicef Berlin,NA,,NA,D,NA,NA
+hsstiftung,Heike-Schulze-Stiftung Joachimsthal,NA,,NA,D,NA,NA
+filmakademie,Deutsche Film- und Fernsehakademie,NA,,NA,D,NA,NA
+dgbbb,Deutscher Gewerkschaftsbund Berlin-Branenburg,NA,,NA,D,NA,NA
+htwberlin,Hochschule für Technik und Wirtschaft,NA,,NA,D,NA,NA
+gruenberlin,Stiftungs- und Aufsichtsrat der Grün Berlin GmbH,NA,,NA,D,NA,NA
+healthcenter,Smart Living & Health Center e. V.,NA,,NA,D,NA,NA
+zukunftberlin,Stiftung Zukunft für Berlin,NA,,NA,D,NA,NA
+buergermeister,Rat der Bürgermeister Berlin,NA,,NA,D,NA,NA
+sorbisch,Dachverbände der sorbischen/wendischen Verbände und Vereine im Land Brandenburg,NA,,NA,D,NA,NA
+domowina,Domowina-Bund Lausitzer Sorben e. V.,NA,,NA,D,NA,NA
+spd,SPD,NA,,NA,C,NA,NA
+cdu,CDU,NA,,NA,C,NA,NA
+afd,AfD,NA,,NA,C,NA,NA
+landwirtschaft,Landwirtschaft,NA,,NA,E,NA,NA
+kirchekath,Kirche kath,NA,,NA,E,NA,NA
+kultur,Kultur,NA,,NA,E,NA,NA
+gewerkschaft,Gewerkschaft,NA,,NA,E,NA,NA
+oeffentlicherdienst,Öffentlicher Dienst,NA,,NA,E,NA,NA
+minderheiten,Minderheiten,NA,,NA,E,NA,NA
+film,Film,NA,,NA,E,NA,NA
+gesundheit,Gesundheit,NA,,NA,E,NA,NA
+politik,Politik,NA,,NA,E,NA,NA
+rbb,,NA,,NA,E,NA,NA
