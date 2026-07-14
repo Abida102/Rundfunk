@@ -1,0 +1,88 @@
+id,name,sex,age,type,Arbeitgeber,job (Berufsbezeichnung),sector,party
+dehohloch,Dennis Hohloch,2,37,A,landtagbrandenburg,mdl,politik,afd
+detumlirsch,Denny Tumlirsch,2,36,A,lmbv,jurist,agrarwirtschaft,NA
+likanellos,Linda Kanellos-Okur,1,39,A,erzbistumberlin,büroleitung,religion,NA
+anveiel,Andres Veiel,2,67,A,selbsständig,regisseur,kultur,NA
+kakarger,Katja Karger,1,57,A,gewerkschaftsbundberlinbrandenburg,vorsitzender,sozial,NA
+nazivkovic,Nadja Zivkovic,1,48,A,bezirksamtmarzahnhellersdorf,bm,staat,cdu
+makoinzer,Marcus Koinzer,2,39,A,domowina,geschäftsführer,sozial,NA
+mahagemann,Martin Hagemann,2,68,A,filmuniversitätbabelsbergkonradwolf,geschäftsführer,medien,NA
+erstohn,Erik Stohn,2,43,A,landtagbrandenburg,mdl,politik,spd
+noheise,Norman Heise,2,48,A,feriendomizillütow,betriebsleiter,tourismus,NA
+dothie,Dörte Thie,1,66,A,selbsständig,zahntechniker,gesundheit,NA
+frhemm,Frauke Hemm,1,58,A,aws,geschäftsführer,umwelt,NA
+votoennies,Volker-Alexander Tönnies,2,55,A,kreisverwaltungoberhavel,landrat,politik,spd
+elhildebrandt,Elske Hildebrandt,1,52,A,landtagbrandenburg,mdl,politik,spd
+datripke,Dr. Daniel Tripke,2,54,A,selbstständig,anwalt,staat,NA
+elkountidou,Elena Kountidou,1,47,A,ndm,geschäftsführer,medien,NA
+frbecker,Frank Becker,2,65,A,senatsverwaltungfuerinneresundsport,beamter,staat,NA
+reauster,Regine Auster,1,68,A,foerdervereinhausnaturpotsdam,geschäftsführer,umwelt,NA
+chamsinck,Christian Amsinck,2,68,A,vereinigungderunternehmensverbändeinberlinundbrandenburg,geschäftsführer,wirtschaft,NA
+ankuehnemann,Andrera Kühnemann,1,63,A,verdi,landesbezirksleiter,sozial,spd
+jajazairi,Jala El Jazairi,1,54,A,unionhilfswerk,koordinator,sozial,NA
+mekuehnemann,Melanie Kühnemann-Grunow,1,54,A,senatsverwaltungfuerbildung,mdl,politik,spd
+anfaber,Anja-Christin Faber,1,51,A,lhfn,geschäftsführer,sozial,NA
+sanachama,Sara Nachama,1,NA,A,advofleet,rektor,bildung,NA
+frfeuerschuetz,Frank Feuerschütz,2,51,A,evangelischekircheberlin,studienleitung,bildung,NA
+kariedel,Katharina Riedel,1,62,A,selbstständig,regisseur,kultur,NA
+hageywitz,Harald Geywitz,2,55,A,telefonicagermany,präses,religion,NA
+svrissmann,Sven Rissmann,2,48,A,selbstständig,"mda,anwalt",staat
+chgoiny,Christian Goiny,2,61,A,abgeordnetenhausberlin,jurist,staat,NA
+stschenk,Stefan Schenk,2,57,A,inclusivesolutions,geschäftsführer,sozial,NA
+digolze,Diana Golze,1,51,A,awobrandenburg,angestellte,sozial,NA
+disiegfried,Dirk Siegfried,2,67,A,selbstständig,rechtsanwalt und notar,staat,NA
+advofleet,Advofleet Business Service GmbH,NA,NA,D,,NA,NA,
+agdok,Arbeitsgemeindschaft Dokumentarfilm,NA,NA,D,,NA,NA,
+beamtenbund,Beamtenbund und Tarifunion (Gewerkschaft des öffentlichen Dienstes),NA,NA,D,,NA,NA,
+buergermeisterratberlin,Rat der Bürgermeister Berlin,NA,NA,D,,NA,NA,
+commerzbank,Commerzbank AG,NA,NA,D,,NA,NA,
+dffb,Deutsche Film- und Fernsehakademie,NA,NA,D,,NA,NA,
+domowina,Domowina-Bund Lausitzer Sorben e. V.,NA,NA,D,,NA,NA,
+drvbund,Deutsche Rentenversicherung Bund,NA,NA,D,,NA,NA,
+eisenbahnniderbarnimer,Niederbarnimer Eisenbahngesellschaft,NA,NA,D,,NA,NA,
+foen,Förderverein für Öffentlichkeitsarbeit im Natur- und Umweltschutz,NA,NA,D,,NA,NA,
+fprbrandenburg,Frauenpolitischer Rat Brandenburg e. V.,NA,NA,D,,NA,NA,
+gemeindienstneuruppin,RC Neuruppin Gemeindienst e.V,NA,NA,D,,NA,NA,
+gewerkschaftsbundberlinbrandenburg,Deutscher Gewerkschaftsbund Berlin-Branenburg,NA,NA,D,,NA,NA,
+gruenberlin,Stiftungs- und Aufsichtsrat der Grün Berlin GmbH,NA,NA,D,,NA,NA,
+havellaendischeeisenbahn,Havelländischen Eisenbahn,NA,NA,D,,NA,NA,
+vbb,VBB- Aufsichtsrat,NA,NA,D,,,,
+oberhavelkliniken,Oberhavel-Kliniken,NA,NA,D,,,,
+mibraburgsparkasse,Mittelbrandenburgerische Sparkasse,NA,NA,D,,,,
+hprberlin,Hauptpersonalrat des Landes Berlin,NA,NA,D,,NA,NA,
+hpvberlin,Vorstand des Hospiz- und Palliativ Verbands Berlin e. V.,NA,NA,D,,NA,NA,
+hsstiftung,Heike-Schulze-Stiftung Joachimsthal,NA,NA,D,,NA,NA,
+htwberlin,Hochschule für Technik und Wirtschaft Berlin,NA,NA,D,,NA,NA,
+hwkpotsdam,Handwerkskammer Potsdam,NA,NA,D,,NA,NA,
+ibberlin,Investitionsbank Berlin,NA,NA,D,,NA,NA,
+ipv,Kuratorium des Industrie-Pensions-Vereins e.V.,NA,NA,D,,NA,NA,
+juedischegemeinedeberlin,Jüdische Gemeinde zu Berlin K. d. ö. R.,NA,NA,D,,NA,NA,
+landesbauern,Landesbauernverband,NA,NA,D,,NA,NA,
+landfrauenbrandenburg,Brandenburger Landfrauenverband e. V.,NA,NA,D,,NA,NA,
+landtag,Landtag,NA,NA,D,,NA,NA,
+lhfn,"Landesstiftung ""Hilfen für Familien in Not""",NA,NA,D,,NA,NA,
+lhrbrandenburg,Landeshochschulrat Brandenburg,NA,NA,D,,NA,NA,
+lmbv,Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft,NA,NA,D,,NA,NA,
+lsbbrandenburg,LSB Brandenburg e.V,NA,NA,D,,NA,NA,
+marzahnertor,Marzahner Tor e.G,NA,NA,D,,NA,NA,
+migrantenbeiratpotsdam,Migrantenbeirat Potsdam,NA,NA,D,,NA,NA,
+mittelstandsvereinblankenfeldemahlow,Mittelstandverein Blankenfelde-Mahlow,NA,NA,D,,NA,NA,
+msvneuruppin,MSV Neuruppin e.V,NA,NA,D,,NA,NA,
+mz,Mitteldeutsche Zahntechnik,NA,NA,D,,NA,NA,
+ndm,Neue deutsche Medienmacher*innen e.V,NA,NA,D,,NA,NA,
+rcneuruppin,Rotary Club Neuruppin e.V,NA,NA,D,,NA,NA,
+smartlivinigandhealthcenter,Smart Living & Health Center e. V.,NA,NA,D,,NA,NA,
+sorbischbrandenburg,Dachverbände der sorbischen/wendischen Verbände und Vereine im Land Brandenburg,NA,NA,D,,NA,NA,
+stadtrat,Stadtrat,NA,NA,D,,NA,NA,
+stadtreinigungberlin,Berliner Stadtreinigungsbetriebe,NA,NA,D,,NA,NA,
+stiftungzukunftberlin,Stiftung Zukunft für Berlin,NA,NA,D,,NA,NA,
+stromnetzberlin,Stromnetz Berlin,NA,NA,D,,NA,NA,
+unicefberlin,Unicef Berlin,NA,NA,D,,NA,NA,
+vakberlin,Verwaltungsakademie des Landes Berlin,NA,NA,D,,NA,NA,
+verdi,vereinte Dienstleistungsgewerkschaft,NA,NA,D,,NA,NA,
+wiberlin,Willkommen in Berlin e. V.: Diplomatenclub beim Auswärtigen Amt,NA,NA,D,,NA,NA,
+widenthecircle,"Widen the Circle,Obermayer Foundation",NA,NA,D,,NA,NA
+spd,SPD,NA,NA,C,,NA,NA,
+cdu,CDU,NA,NA,C,,NA,NA,
+afd,AfD,NA,NA,C,,NA,NA,
+rbb,,,,,,,,
